@@ -18,27 +18,7 @@
         <entry file="file://$PROJECT_DIR$/src/uzdavinys4.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="uzdavinys5.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/uzdavinys5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="uzdavinys6.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/uzdavinys6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+              <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -57,8 +37,8 @@
       <file leaf-file-name="uzdavinyssunkesnis3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/uzdavinyssunkesnis3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1139">
-              <caret line="67" column="49" lean-forward="true" selection-start-line="67" selection-start-column="49" selection-end-line="67" selection-end-column="49" />
+            <state relative-caret-position="1105">
+              <caret line="67" column="49" lean-forward="false" selection-start-line="67" selection-start-column="49" selection-end-line="67" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,8 +49,8 @@
       <file leaf-file-name="uzdavinyssunkesnis4.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/uzdavinyssunkesnis4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            <state relative-caret-position="0">
+              <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,11 +58,60 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="uzdavinyssunkesnis6.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="kolekcijos1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kolekcijos1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kolekcijos1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kolekcijos/kolekcijos1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="set1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kolekcijos/set1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="25" column="81" lean-forward="true" selection-start-line="25" selection-start-column="81" selection-end-line="25" selection-end-column="81" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="setnaudojantmusuobjekta.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/kolekcijos/setnaudojantmusuobjekta.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <element signature="e#719#720#0" expanded="true" />
+                <element signature="e#746#747#0" expanded="true" />
+                <element signature="e#780#781#0" expanded="true" />
+                <element signature="e#810#811#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uzdavinyssunkesnis6.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/uzdavinyssunkesnis6.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="68" lean-forward="false" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+              <caret line="8" column="67" lean-forward="false" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -91,7 +120,7 @@
       <file leaf-file-name="Scanner.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Scanner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
+            <state relative-caret-position="33252">
               <caret line="2098" column="37" lean-forward="false" selection-start-line="2098" selection-start-column="15" selection-end-line="2098" selection-end-column="37" />
               <folding>
                 <element signature="docComment;method#hasNextInt#0;class#Scanner#0" expanded="false" />
@@ -103,26 +132,6 @@
                 <element signature="e#78006#78007#0" expanded="true" />
                 <element signature="e#78050#78051#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="uzdavinys7.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/uzdavinys7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="uzdavinys8.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/uzdavinys8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -160,6 +169,10 @@
         <option value="$PROJECT_DIR$/src/uzdavinyssunkesnis3.java" />
         <option value="$PROJECT_DIR$/src/uzdavinyssunkesnis4.java" />
         <option value="$PROJECT_DIR$/src/uzdavinyssunkesnis6.java" />
+        <option value="$PROJECT_DIR$/src/kolekcijos1.java" />
+        <option value="$PROJECT_DIR$/src/kolekcijos/kolekcijos1.java" />
+        <option value="$PROJECT_DIR$/src/kolekcijos/setnaudojantmusuobjekta.java" />
+        <option value="$PROJECT_DIR$/src/kolekcijos/set1.java" />
       </list>
     </option>
   </component>
@@ -191,9 +204,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -207,10 +218,18 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kolekcijos" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,7 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.uzdavinyssunkesnis6">
+  <component name="RunManager" selected="Application.set1">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -252,9 +271,14 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="uzdavinys2sunkesni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="uzdavinys2sunkesni" />
+    <configuration name="kolekcijos1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="kolekcijos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="kolekcijos.kolekcijos1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -266,9 +290,14 @@
       <module name="java" />
       <envs />
     </configuration>
-    <configuration name="uzdavinys8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="uzdavinys8" />
+    <configuration name="set1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="kolekcijos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="kolekcijos.set1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -383,19 +412,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.uzdavinys8" />
-      <item index="1" class="java.lang.String" itemvalue="Application.uzdavinys2sunkesni" />
-      <item index="2" class="java.lang.String" itemvalue="Application.uzdavinyssunkesnis3" />
-      <item index="3" class="java.lang.String" itemvalue="Application.uzdavinyssunkesnis4" />
-      <item index="4" class="java.lang.String" itemvalue="Application.uzdavinyssunkesnis6" />
+      <item index="0" class="java.lang.String" itemvalue="Application.uzdavinyssunkesnis3" />
+      <item index="1" class="java.lang.String" itemvalue="Application.uzdavinyssunkesnis4" />
+      <item index="2" class="java.lang.String" itemvalue="Application.uzdavinyssunkesnis6" />
+      <item index="3" class="java.lang.String" itemvalue="Application.kolekcijos1" />
+      <item index="4" class="java.lang.String" itemvalue="Application.set1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.uzdavinyssunkesnis6" />
-        <item index="1" class="java.lang.String" itemvalue="Application.uzdavinyssunkesnis4" />
-        <item index="2" class="java.lang.String" itemvalue="Application.uzdavinyssunkesnis3" />
-        <item index="3" class="java.lang.String" itemvalue="Application.uzdavinys2sunkesni" />
-        <item index="4" class="java.lang.String" itemvalue="Application.uzdavinys8" />
+        <item index="0" class="java.lang.String" itemvalue="Application.set1" />
+        <item index="1" class="java.lang.String" itemvalue="Application.kolekcijos1" />
+        <item index="2" class="java.lang.String" itemvalue="Application.uzdavinyssunkesnis6" />
+        <item index="3" class="java.lang.String" itemvalue="Application.uzdavinyssunkesnis4" />
+        <item index="4" class="java.lang.String" itemvalue="Application.uzdavinyssunkesnis3" />
       </list>
     </recent_temporary>
   </component>
@@ -414,7 +443,8 @@
       <updated>1521569187842</updated>
       <workItem from="1521569191668" duration="4496000" />
       <workItem from="1521650771398" duration="9750000" />
-      <workItem from="1521736557634" duration="9664000" />
+      <workItem from="1521736557634" duration="9836000" />
+      <workItem from="1521823221968" duration="5804000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1521572006271</created>
@@ -427,7 +457,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23910000" />
+    <option name="totallyTimeSpent" value="29886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -443,10 +473,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3599321" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39728352" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15960665" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15885022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -477,16 +507,103 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/uzdavinys4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uzdavinys5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uzdavinys6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uzdavinys2sunkesni.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uzdavinyssunkesnis3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="67" column="49" lean-forward="true" selection-start-line="67" selection-start-column="49" selection-end-line="67" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uzdavinyssunkesnis4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35666">
+          <caret line="2098" column="37" lean-forward="false" selection-start-line="2098" selection-start-column="15" selection-end-line="2098" selection-end-column="37" />
+          <folding>
+            <element signature="docComment;method#hasNextInt#0;class#Scanner#0" expanded="false" />
+            <element signature="docComment;method#hasNextInt#1;class#Scanner#0" expanded="false" />
+            <element signature="method#hasNextInt#1;class#Scanner#0" expanded="false" />
+            <element signature="docComment;method#processIntegerToken#0;class#Scanner#0" expanded="false" />
+            <element signature="method#processIntegerToken#0;class#Scanner#0" expanded="false" />
+            <element signature="docComment;method#nextInt#0;class#Scanner#0" expanded="false" />
+            <element signature="e#78006#78007#0" expanded="true" />
+            <element signature="e#78050#78051#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uzdavinys7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uzdavinys8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uzdavinyssunkesnis6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="67" lean-forward="false" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyFirstClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <element signature="e#665#666#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-            <element signature="e#752#753#0" expanded="true" />
-            <element signature="e#806#807#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -494,9 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -504,7 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -512,9 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -554,12 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#665#666#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-            <element signature="e#752#753#0" expanded="true" />
-            <element signature="e#806#807#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -567,12 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <element signature="e#665#666#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
-            <element signature="e#752#753#0" expanded="true" />
-            <element signature="e#806#807#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -580,9 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -590,7 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -598,16 +692,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="53" lean-forward="false" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/uzdavinys8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        <state relative-caret-position="595">
+          <caret line="35" column="9" lean-forward="false" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -631,7 +722,7 @@
     <entry file="file://$PROJECT_DIR$/src/uzdavinys6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -647,14 +738,14 @@
     <entry file="file://$PROJECT_DIR$/src/uzdavinys4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="33252">
           <caret line="2098" column="37" lean-forward="false" selection-start-line="2098" selection-start-column="15" selection-end-line="2098" selection-end-column="37" />
           <folding>
             <element signature="docComment;method#hasNextInt#0;class#Scanner#0" expanded="false" />
@@ -671,18 +762,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/uzdavinyssunkesnis3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
-          <caret line="67" column="49" lean-forward="true" selection-start-line="67" selection-start-column="49" selection-end-line="67" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uzdavinyssunkesnis4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        <state relative-caret-position="1105">
+          <caret line="67" column="49" lean-forward="false" selection-start-line="67" selection-start-column="49" selection-end-line="67" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -692,8 +773,59 @@
     <entry file="file://$PROJECT_DIR$/src/uzdavinyssunkesnis6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="68" lean-forward="false" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+          <caret line="8" column="67" lean-forward="false" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uzdavinyssunkesnis4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kolekcijos1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kolekcijos/kolekcijos1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kolekcijos/set1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="81" lean-forward="true" selection-start-line="25" selection-start-column="81" selection-end-line="25" selection-end-column="81" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kolekcijos/setnaudojantmusuobjekta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#810#811#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
