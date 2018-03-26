@@ -21,6 +21,7 @@ public class set1 {
         person.add(new setnaudojantmusuobjekta("Ignas", "Samajauskas")); //sukuriam nauja objekta
         person.add(new setnaudojantmusuobjekta("Pampickiukas", "Minionas"));
         person.add(new setnaudojantmusuobjekta("Pampickiukas", "Minionas"));
+        person.add(new setnaudojantmusuobjekta("Aampickiukas", "Minionas"));
 
         person.forEach(p->{
             System.out.println("Vardas "+p.getName()+" pavarde "+p.getSurname());

@@ -2,7 +2,7 @@ package kolekcijos;
 
 import java.util.Objects;
 
-public class setnaudojantmusuobjekta {
+public class setnaudojantmusuobjekta implements Comparable {
     private String Name;
     private String Surname;
 
@@ -32,5 +32,10 @@ public class setnaudojantmusuobjekta {
 
     public String getSurname() {
         return Surname;
+    }
+
+    @Override
+    public int compareTo(Object o) {
+        return Name.compareTo(Name);
     }
 }
