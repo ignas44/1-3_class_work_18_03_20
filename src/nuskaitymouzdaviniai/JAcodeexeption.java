@@ -1,33 +1,20 @@
 package nuskaitymouzdaviniai;
 
-public class JAcodeexeption {
+public class JAcodeexeption extends Exception{
 
     public JAcodeexeption() {
         super();
     }
 
-    @Override
-    public int hashCode() {
-        return super.hashCode();
+    public JAcodeexeption(String message) {
+        super(message);
     }
 
-    @Override
-    public boolean equals(Object obj) {
-        return super.equals(obj);
+    public JAcodeexeption(String message, Throwable cause) {
+        super(message, cause);
     }
 
-    @Override
-    protected Object clone() throws CloneNotSupportedException {
-        return super.clone();
-    }
-
-    @Override
-    public String toString() {
-        return super.toString();
-    }
-
-    @Override
-    protected void finalize() throws Throwable {
-        super.finalize();
+    public JAcodeexeption(Throwable cause) {
+        super(cause);
     }
 }
